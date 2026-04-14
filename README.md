@@ -53,9 +53,6 @@ AWS • Docker • Kubernetes • GitHub Actions • Jenkins
 
 ---
 
-## 📊 GitHub Stats
-
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikreddy09\&show_icons=true)
 
 ---
 
