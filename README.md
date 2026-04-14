@@ -22,6 +22,18 @@ An event-driven system that processes transactions in real time, enriches them w
 **Tech Stack:**
 Java • Spring Boot • Kafka • Redis • PostgreSQL • React • Docker
 
+
+**What it demonstrates:**
+
+* Event-driven microservices architecture
+* Low-latency fraud scoring pipeline
+* Redis-backed real-time feature checks
+* Explainable fraud decisions (no black boxes)
+* End-to-end system design from ingestion → decision
+
+👉 *If a suspicious transaction sneaks in, this system is already suspicious of it.*
+
+
 ### 🚗 Driver Drowsiness Detection System
 
 A real-time computer vision system that detects driver fatigue using facial landmark tracking and machine learning techniques.
@@ -35,18 +47,7 @@ A real-time computer vision system that detects driver fatigue using facial land
 **Tech Stack:**
 Python • OpenCV • Dlib • Machine Learning • Jupyter Notebook
 
-👉 *Designed to identify fatigue early and improve road safety using AI.*
-
-
-**What it demonstrates:**
-
-* Event-driven microservices architecture
-* Low-latency fraud scoring pipeline
-* Redis-backed real-time feature checks
-* Explainable fraud decisions (no black boxes)
-* End-to-end system design from ingestion → decision
-
-👉 *If a suspicious transaction sneaks in, this system is already suspicious of it.*
+👉 *Designed to identify fatigue early and improve road safety using Machine learning.*
 
 ---
 
