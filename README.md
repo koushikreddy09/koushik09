@@ -123,5 +123,4 @@ Python • OpenCV • Dlib • Machine Learning • Jupyter Notebook
 
 ## ⚡ Fun Fact
 
-I like building systems that are fast, reliable, and scalable…
-and then testing them until they break (because they always do).
+CODING CHANGES LIVES.
