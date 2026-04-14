@@ -1,6 +1,3 @@
-# koushik
-Building scalable distributed systems with Java, Spring Boot, Kafka, and cloud-native tools
-
 # Hey, I'm Koushik 👋
 
 I build backend systems that don’t fall apart when real users show up.
