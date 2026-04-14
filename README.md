@@ -55,11 +55,11 @@ Java • Spring Boot • Kafka • Redis • PostgreSQL • React • Docker
 
 ## 📊 GitHub Stats
 
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikreddy09&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikreddy09&layout=compact&theme=radical)
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikreddy09&show_icons=true&theme=radical&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=koushikreddy09&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikreddy09&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
