@@ -52,8 +52,6 @@ Java • Spring Boot • Kafka • Redis • PostgreSQL • React • Docker
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=koushikreddy09&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koushikreddy09&layout=compact&theme=radical)
