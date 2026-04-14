@@ -37,15 +37,48 @@ Java • Spring Boot • Kafka • Redis • PostgreSQL • React • Docker
 
 ## 🛠️ Tech Stack
 
+**Backend**
 ![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-Backend-brightgreen)
-![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Redis](https://img.shields.io/badge/Redis-Cache-red)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-brightgreen)
+![Spring Security](https://img.shields.io/badge/Spring_Security-Auth-green)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-59666C)
+![Kafka](https://img.shields.io/badge/Kafka-Event_Streaming-black)
+![GraphQL](https://img.shields.io/badge/GraphQL-API-E10098)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-Frontend-61DAFB)
+![Angular](https://img.shields.io/badge/Angular-Frontend-DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)
+
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)
+![Oracle](https://img.shields.io/badge/Oracle-Database-F80000)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-47A248)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-NoSQL-4053D6)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-D24939)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC)
+
+**Testing & Tools**
+![JUnit 5](https://img.shields.io/badge/JUnit_5-Testing-25A162)
+![Mockito](https://img.shields.io/badge/Mockito-Unit_Testing-78A641)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A)
+![REST Assured](https://img.shields.io/badge/REST_Assured-API_Testing-6DB33F)
+![Linux](https://img.shields.io/badge/Linux-Unix-FCC624)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
+
+**Python & Analytics**
+![Python](https://img.shields.io/badge/Python-Programming-3776AB)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626)
+
 
 ---
 
