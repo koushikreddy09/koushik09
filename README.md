@@ -37,7 +37,6 @@ Java • Spring Boot • Kafka • Redis • PostgreSQL • React • Docker
 
 ---
 
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -53,13 +52,12 @@ Java • Spring Boot • Kafka • Redis • PostgreSQL • React • Docker
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
-![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikreddy09&show_icons=true&theme=radical&cache_seconds=1800)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=koushikreddy09&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikreddy09&layout=compact&theme=radical&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koushikreddy09&layout=compact&theme=radical)
 
 ---
 
