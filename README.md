@@ -11,7 +11,7 @@ Full Stack Software Engineer with 5+ years of experience building scalable, high
 
 ## 🔗 Connect
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/koushik-reddy9/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/[YOUR-LINK](https://www.linkedin.com/in/koushik-reddy9/))
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:koushikreddyd01@gmail.com)
 
 ---
@@ -39,20 +39,27 @@ Java • Spring Boot • Kafka • Redis • PostgreSQL • React • Docker
 
 ## 🛠️ Tech Stack
 
-**Backend:**
-Java • Spring Boot • Spring Security • Hibernate • REST APIs • Microservices
+## 🛠️ Tech Stack
 
-**Event & Data:**
-Kafka • Redis • PostgreSQL • MongoDB
-
-**Frontend:**
-React • TypeScript • Angular
-
-**Cloud & DevOps:**
-AWS • Docker • Kubernetes • GitHub Actions • Jenkins
+![Java](https://img.shields.io/badge/Java-17-blue)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Backend-brightgreen)
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Redis](https://img.shields.io/badge/Redis-Cache-red)
 
 ---
 
+## 📊 GitHub Stats
+
+![Koushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushikreddy09&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koushikreddy09&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=koushikreddy09&theme=radical)
 
 ---
 
@@ -64,6 +71,10 @@ AWS • Docker • Kubernetes • GitHub Actions • Jenkins
 * Building production-grade backend systems
 
 ---
+
+## 📈 Contribution Graph
+
+![Koushik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koushikreddy09&theme=react-dark)
 
 ## ⚡ Fun Fact
 
